@@ -37,6 +37,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 @version 2.0.3 (git)
 */
 
+define([], function() { var
+
 LazyLoad = (function (doc) {
   // -- Private Variables ------------------------------------------------------
 
@@ -389,3 +391,6 @@ LazyLoad = (function (doc) {
 
   };
 })(this.document);
+
+
+return LazyLoad; });
