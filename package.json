@@ -1,0 +1,22 @@
+{
+  "name": "lazyload",
+  "version": "1.0.0",
+  "description": "LazyLoad ========",
+  "main": "lazyload.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cmdcolin/lazyload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cmdcolin/lazyload/issues"
+  },
+  "homepage": "https://github.com/cmdcolin/lazyload#readme"
+}
